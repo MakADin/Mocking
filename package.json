@@ -1,0 +1,35 @@
+{
+  "name": "mocking",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/MakADin/Mocking#readme",
+  "bugs": {
+    "url": "https://github.com/MakADin/Mocking/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakADin/Mocking.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.28.6",
+    "@babel/core": "^7.29.0",
+    "@babel/preset-env": "^7.29.2",
+    "@eslint/js": "^9.39.4",
+    "eslint": "^9.39.4",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^17.5.0",
+    "jest": "^30.3.0"
+  },
+  "dependencies": {
+    "core-js": "^3.49.0"
+  }
+}
