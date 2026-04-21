@@ -1,0 +1,1 @@
+[![CI Pipeline](https://github.com/MakADin/Mocking/actions/workflows/main.yml/badge.svg)](https://github.com/MakADin/Mocking/actions/workflows/main.yml)
